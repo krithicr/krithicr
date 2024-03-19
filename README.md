@@ -21,27 +21,30 @@
 🌱 I’m currently working on **React, Full stack deveploment**.
 
 ✉️ &nbsp;You can shoot me an email at krithicrajp@gmail.com! I'll try to respond as soon as I can.
+    &nbsp;We shall Collab on Interesting Ideas! 
+
 
 
 <img height="150em" alt="Programming" src="https://github.com/krithicr/krithicr/blob/master/coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Angular](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=Jenkins)&nbsp;
+![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=Jenkins)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=000000)&nbsp;
 ![Mongo DB](https://img.shields.io/badge/-Mongo%20DB-05122A?style=flat&logo=mongoDB&logoColor=47A248)&nbsp;
-![Flutter](https://img.shields.io/badge/-Springboot-05122A?style=flat&logo=Springboot&logoColor=02569B)&nbsp;
-![Git](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=Kubernetes)&nbsp;
+![Springboot](https://img.shields.io/badge/-Springboot-05122A?style=flat&logo=Springboot&logoColor=02569B)&nbsp;
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=Kubernetes)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku)&nbsp;
-![Markdown](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
