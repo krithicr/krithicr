@@ -1,27 +1,25 @@
   ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
 
 <div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! </h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! 👋, I'm Krithic</h2>
+<h3 align="center">A Full Stack Techie</h3>
 
-![img](https://custom-icon-badges.herokuapp.com/badge/Repo-blue.svg?logo=repo)
-![img](https://custom-icon-badges.herokuapp.com/badge/Star-yellow.svg?logo=star)
-![img](https://custom-icon-badges.herokuapp.com/badge/Issue-red.svg?logo=issue)
-![img](https://custom-icon-badges.herokuapp.com/badge/Fork-orange.svg?logo=fork)
-![img](https://custom-icon-badges.herokuapp.com/badge/Commit-green.svg?logo=commit)
-![img](https://custom-icon-badges.herokuapp.com/badge/Pull%20Request-purple.svg?logo=pr)
 </div>
 
 
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohan2002&label=Profile%20views&color=0e75b6&style=flat" alt="mohan2002" /> </p>
 
 
 
 
-🌱 I’m currently working on **React, Full stack deveploment**.
+- 🌱 I’m currently learning **SpringBoot, Cloud Services**
+- 💬 Ask me about **Html,Css,Javascript,Java,React,Devops**
+- 📫 How to reach me **krithicrajp@gmail.com**
+- ✉️ &nbsp;We shall Collab on Interesting Ideas! 
 
-✉️ &nbsp;You can shoot me an email at krithicrajp@gmail.com! I'll try to respond as soon as I can.
-    &nbsp;We shall Collab on Interesting Ideas! 
+
 
 
 
@@ -59,13 +57,14 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/krithicraj-p-17bb99233/"><img src="https://img.shields.io/badge/Krithic%20R-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:krithicrajp@gmail.com"><img src="https://img.shields.io/badge/-Krithic R-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/krithicraj-p-17bb99233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krithicraj-p-17bb99233" height="40px" width="30px" /></a>
+  &nbsp;   &nbsp;   &nbsp;
+<a href="https://x.com/Krithic04?t=74nP_NZ15pQEtxD8ROQsAQ&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Krithic04" height="40px" width="30px" /></a>
 
 </p>
 
 -----
-Credits: [Krithic](https://github.com/krithicr)
+
 
 
 
